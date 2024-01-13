@@ -1,5 +1,5 @@
 # .gitignore
-.env
+Backend/.env
 
 # .gitignore
 node_modules/
